@@ -5,14 +5,14 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 11  # Order that this section will appear.
+weight = 3  # Order that this section will appear.
 
-title = "Recent Posts"
-subtitle = ""
+title = "Supervision"
+subtitle = "Current Student Supervisions"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "post"
+  page_type = "supervision"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -37,7 +37,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 3
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -66,3 +66,16 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+##  Current Student Supervisions
+
+* **Abdullah Abdulaziz N Alghunaim** - February 2020 to present . _(Co-supervisor: Professor Jill Slay, La Trobe University)_ **PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
+
+* **Abdullah Abdulaziz N Alghunaim** - February 2020 to present . _(Co-supervisor: Professor Jill Slay, La Trobe University)_ **PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
+
+* **Abdullah Abdulaziz N Alghunaim** - February 2020 to present . _(Co-supervisor: Professor Jill Slay, La Trobe University)_ **PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
+
+* **Abdullah Abdulaziz N Alghunaim** - February 2020 to present . _(Co-supervisor: Professor Jill Slay, La Trobe University)_ **PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
+
+
+
+[SEE ALL SUPERVISIONS](https://academic-template.netlify.app/supervision/)
