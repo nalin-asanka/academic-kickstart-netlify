@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "22nd International Conference on Evaluation and Assessment in Software Engineering 2018 (EASE'18)"
   organization_url = "#"
-  title = Why developers cannot embed privacy into software systems? An empirical investigation
+  title = "Why developers cannot embed privacy into software systems? An empirical investigation"
   url = ""
   certificate_url = "#"
   date_start = "2018-10-01"
