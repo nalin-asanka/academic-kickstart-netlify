@@ -16,7 +16,7 @@ subtitle = "Media Contributions"
  css_style = ""
  
  # CSS class.
- css_class = "card-title exp-title text-muted mt-0 mb-1"
+ css_class = ""
 +++
 
 
