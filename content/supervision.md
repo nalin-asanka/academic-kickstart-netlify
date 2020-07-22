@@ -54,17 +54,17 @@ subtitle = ""
 +++
 ##  Current Student Supervisions
 
-* **Abdullah Abdulaziz N Alghunaim** - February 2020 to present . _(Co-supervisor: Professor Jill Slay, La Trobe University)_ **PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
+* **Abdullah Abdulaziz N Alghunaim** - February 2020 to present . _(La Trobe University)_ **PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
 
 
 
 ## Completed Student Supervisions
 
 
-* **Chamila Wijayarathna** - July 2016 to January 2020 . _(La Trobe University)_ **PhD Thesis Title:** Developing a systematic approach to evaluate the usability of
+* **Chamila Wijayarathna** - July 2016 to January 2020 . _(UNSW)_ **PhD Thesis Title:** Developing a systematic approach to evaluate the usability of
 security APIs.
 
-* **Awanthika Senarath** - July 2016 to January 2020 . _(La Trobe University)_ **PhD Thesis Title:** Embedding Privacy intoSoftware Systems: A Privacy Engineering
+* **Awanthika Senarath** - July 2016 to January 2020 . _(UNSW)_ **PhD Thesis Title:** Embedding Privacy intoSoftware Systems: A Privacy Engineering
 Methodology for Data Minimisation.
 
 * **Peter Newman** - July 2016 to present . _(UNSW)_ **MPhil Thesis Title:** Understanding How Social Media Application Design Artefacts Can Influence Cyberbullying Avoidance Behaviour
