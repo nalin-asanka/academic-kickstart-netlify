@@ -10,10 +10,13 @@ role: Research in Software Security Engineering (LERSSE)
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Computer System Security
-  - Games
-  - Security
-  - Research
+  - Usable Security and Privacy
+  - Usable Cryptography
+  * Secure Programming
+  * Cyber Security Education, Software Security Engineering
+  * Machine Learning for Cyber Security
+  * Information Systems Security, HCI
+  * Serious Games
 social:
   - icon: envelope
     icon_pack: fas
