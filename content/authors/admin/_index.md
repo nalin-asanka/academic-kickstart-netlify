@@ -17,8 +17,8 @@ interests:
   - Software Security Engineering
   - Machine Learning for Cyber Security
   - Information Systems Security
-  - HCI
   - Serious Games
+  - HCI
 social:
   - icon: envelope
     icon_pack: fas
