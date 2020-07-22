@@ -28,7 +28,7 @@ subtitle = ""
 [CORE/ERA ranking - A*] 2019
 
 * **Publicity Co-Chair**: The 16th Symposium on Usable Privacy and Security (SOUPS)
-Co-located with USENIX Security '20 in Boston, MA, USA _2019
+Co-located with USENIX Security '20 in Boston, MA, USA 2019
 
 * **Publicity Co-Chair:** The 15th Symposium on Usable Privacy and Security (SOUPS)
 Co-located with USENIX Security '19 in Santa Clara, California, USA 2019
@@ -142,7 +142,7 @@ with USENIX 2015
 * **Technical Chair/Web-master:** The 27th International British Computer Society
 Human Computer Interaction Conference: The Internet of things 2013
 
-* **Reviewer:***** Computers and Education, Elsevier (Impact factor: 2.621) 2012
+* **Reviewer:** Computers and Education, Elsevier (Impact factor: 2.621) 2012
 
 
 

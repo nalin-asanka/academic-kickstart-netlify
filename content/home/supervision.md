@@ -66,16 +66,14 @@ subtitle = "Current Student Supervisions"
  # CSS class.
  css_class = ""
 +++
-##  Current Student Supervisions
+##  Completed Student Supervisions
 
-* **Abdullah Abdulaziz N Alghunaim** - February 2020 to present . _(Co-supervisor: Professor Jill Slay, La Trobe University)_ **PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
+* **Chamila Wijayarathna** - July 2016 to January 2020 . _(La Trobe University)_ **PhD Thesis Title:** Developing a systematic approach to evaluate the usability of
+security APIs.
 
-* **Abdullah Abdulaziz N Alghunaim** - February 2020 to present . _(Co-supervisor: Professor Jill Slay, La Trobe University)_ **PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
-
-* **Abdullah Abdulaziz N Alghunaim** - February 2020 to present . _(Co-supervisor: Professor Jill Slay, La Trobe University)_ **PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
-
-* **Abdullah Abdulaziz N Alghunaim** - February 2020 to present . _(Co-supervisor: Professor Jill Slay, La Trobe University)_ **PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
+* **Awanthika Senarath** - July 2016 to January 2020 . _(La Trobe University)_ **PhD Thesis Title:** Embedding Privacy intoSoftware Systems: A Privacy Engineering
+Methodology for Data Minimisation.
 
 
 
-[SEE ALL SUPERVISIONS](https://academic-template.netlify.app/supervision/)
+[SEE ALL SUPERVISIONS](https://nalinasanka.netlify.app/supervision/)
