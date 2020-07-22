@@ -12,7 +12,7 @@ subtitle = "Media Contributions"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "services"
+  page_type = "press"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -74,4 +74,4 @@ Australian adults were aected by cybercrime last year". | 8 October 2019
 hospitals across Victoria" with Mandy at ABC National's Drive Radio .| 8 October
 2019
 
-[SEE ALL MEDIA CONTRIBUTIONS](https://nalinasanka.netlify.app/press/)
+[SEE ALL MEDIA CONTRIBUTIONS](https://nalinasanka.netlify.app/press)
