@@ -74,4 +74,4 @@ Australian adults were aected by cybercrime last year". | 8 October 2019
 hospitals across Victoria" with Mandy at ABC National's Drive Radio .| 8 October
 2019
 
-[SEE ALL MEDIA CONTRIBUTIONS](https://academic-template.netlify.app/press/)
+[SEE ALL MEDIA CONTRIBUTIONS](https://nalinasanka.netlify.app/press/)
