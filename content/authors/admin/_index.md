@@ -12,11 +12,11 @@ bio: My research interests include distributed robotics, mobile computing and
 interests:
   - Usable Security and Privacy
   - Usable Cryptography
-  *Secure Programming
-  *Cyber Security Education, Software Security Engineering
-  *Machine Learning for Cyber Security
-  *Information Systems Security, HCI
-  *Serious Games
+  - Secure Programming
+  - Cyber Security Education, Software Security Engineering
+  - Machine Learning for Cyber Security
+  - Information Systems Security, HCI
+  - Serious Games
 social:
   - icon: envelope
     icon_pack: fas
