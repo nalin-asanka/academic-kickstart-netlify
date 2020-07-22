@@ -13,9 +13,11 @@ interests:
   - Usable Security and Privacy
   - Usable Cryptography
   - Secure Programming
-  - Cyber Security Education, Software Security Engineering
+  - Cyber Security Education
+  - Software Security Engineering
   - Machine Learning for Cyber Security
-  - Information Systems Security, HCI
+  - Information Systems Security
+  - HCI
   - Serious Games
 social:
   - icon: envelope
