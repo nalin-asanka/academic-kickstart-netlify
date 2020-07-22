@@ -66,4 +66,4 @@ ranking - A] 2019
 
 
 
-[SEE ALL PROFESSIONAL SERVICES](https://academic-template.netlify.app/services/)
+[SEE ALL PROFESSIONAL SERVICES](https://nalinasanka.netlify.app/services/)
