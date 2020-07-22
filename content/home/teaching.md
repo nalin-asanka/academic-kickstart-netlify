@@ -70,4 +70,4 @@ CQUniversity Melbourne, Australia July 2015 to October 2015
 
 
 
-[SEE ALL TEACHING EXPERIENCE](https://academic-template.netlify.app/teaching/)
+[SEE ALL TEACHING EXPERIENCE](https://nalinasanka.netlify.app/teaching/)
