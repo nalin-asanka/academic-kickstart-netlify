@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = "#"
   date_start = "2018-10-01"
   date_end = ""
-  description = "**Best Paper Award**, CORE/ERA ranking - A Roses are \textcolor{red}{red}, violets are \textcolor{blue}{blue}."
+  description = "**Best Paper Award**, CORE/ERA ranking - A"
 
 [[item]]
   organization = "Coursera"
