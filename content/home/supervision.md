@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 3  # Order that this section will appear.
 
 title = "Supervision"
-subtitle = "Current Student Supervisions"
+subtitle = "Completed Student Supervisions"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
