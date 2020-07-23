@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Phishing is an online identity theft, which aims to steal confidential information such as username, password and online banking details from its victims. To prevent this, anti-phishing education needs to be considered. Therefore, the research reported in this paper examines whether conceptual knowledge or procedural knowledge has a positive effect on computer users’ self-efficacy to thwart phishing threats. In order to accomplish this, a theoretical model based on Liang and Xue’s (2010) Technology Threat Avoidance Theory (TTAT) has been proposed and evaluated. Data was collected from 161 regular computer users to elicit their feedback through an online questionnaire. The study findings revealed that the interaction effect of conceptual and procedural knowledge positively impacts on computer users’ self-efficacy, which enhances their phishing threat avoidance behaviour. It can therefore be argued that well-designed end-user security education contributes to thwart phishing threats.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -29,7 +29,7 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
+- name: Link
   url: https://www.sciencedirect.com/science/article/pii/S0747563214003331
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 url_code: '#'
