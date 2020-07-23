@@ -65,7 +65,7 @@ subtitle = ""
 
 * **Chamila Wijayarathna** - July 2016 to January 2020 . _(UNSW)_ 
 
-**PhD Thesis Title:** Developing a systematic approach to evaluate the usability of
+**_PhD Thesis Title:_** Developing a systematic approach to evaluate the usability of
 security APIs.
 
 * **Awanthika Senarath** - July 2016 to January 2020 . _(UNSW)_ 
