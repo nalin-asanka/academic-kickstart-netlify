@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   date_start = "2016-07-01"
-  date_end = "2020-01--01"
+  date_end = "2020-01-01"
   description = """**PhD Thesis Title:** Embedding Privacy intoSoftware Systems: A Privacy Engineering Methodology for Data Minimisation.
   
   """
