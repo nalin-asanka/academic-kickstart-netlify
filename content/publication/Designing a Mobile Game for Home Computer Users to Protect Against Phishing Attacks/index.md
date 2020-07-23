@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Intenatioal Journal for e-Learning Security (IJeLS)
-publication_short: in IJeLS
+publication_short: In IJeLS
 
 abstract: 
 
