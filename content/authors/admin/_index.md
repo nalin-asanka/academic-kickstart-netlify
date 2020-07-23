@@ -29,9 +29,12 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com.au/citations?hl=en&user=itCS1r0AAAAJ
-  - icon: github
+  - icon: facebook
     icon_pack: fab
-    link: #
+    link: https://www.facebook.com/gamagedara.nalinasanka
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/channel/UCK2DJHB2eabes2TDyhGpHHA
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
