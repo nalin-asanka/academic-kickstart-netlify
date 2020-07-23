@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "**Abdullah Abdulaziz N Alghunaim**"
+  title = "Abdullah Abdulaziz N Alghunaim"
   company = "La Trobe University"
   company_url = ""
   location = "La Trobe University"
@@ -36,18 +36,18 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2016-07-01"
   date_end = "2020-01-01"
-  description = """**PhD Thesis Title:** Embedding Privacy intoSoftware Systems: A Privacy Engineering Methodology for Data Minimisation.
+  description = """**PhD Thesis Title:** Developing a systematic approach to evaluate the usability of security APIs.
   
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Awanthika Senarath"
+  company = "UNSW"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics.
+  location = ""
+  date_start = "2016-07-01"
+  date_end = "2020-01-01"
+  description = """**PhD Thesis Title:** Embedding Privacy intoSoftware Systems: A Privacy Engineering Methodology for Data Minimisation.
   
   """
 
