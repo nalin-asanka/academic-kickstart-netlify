@@ -21,7 +21,7 @@ date_format = "Jan 2006"
   title = "**Abdullah Abdulaziz N Alghunaim**"
   company = "La Trobe University"
   company_url = ""
-  location = "(Co-supervisor: Professor Jill Slay, La Trobe University)"
+  location = "La Trobe University"
   date_start = "2020-02-01"
   date_end = ""
   description = """**PhD Thesis Title:** Developing a framework to understand users' privacy and risk perceptions of sharing health information over the social media network.
@@ -30,13 +30,13 @@ date_format = "Jan 2006"
   """
   
   [[experience]]
-  title = "Senior Reasearch Fellow"
-  company = "GenCoin"
+  title = "Chamila Wijayarathna"
+  company = "UNSW"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
+  location = ""
+  date_start = "2016-07-01"
+  date_end = "2020-01--01"
+  description = """**PhD Thesis Title:** Embedding Privacy intoSoftware Systems: A Privacy Engineering Methodology for Data Minimisation.
   
   """
 
