@@ -7,7 +7,7 @@ date: "2014-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2014-09-01T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,7 +22,7 @@ publication_short: In *STC*
 abstract: Phishing is an online identity theft, which aims to steal confidential information such as username, password and online banking details from its victims. To prevent this, anti-phishing education needs to be considered. Therefore, the research reported in this paper examines whether conceptual knowledge or procedural knowledge has a positive effect on computer users’ self-efficacy to thwart phishing threats. In order to accomplish this, a theoretical model based on Liang and Xue’s (2010) Technology Threat Avoidance Theory (TTAT) has been proposed and evaluated. Data was collected from 161 regular computer users to elicit their feedback through an online questionnaire. The study findings revealed that the interaction effect of conceptual and procedural knowledge positively impacts on computer users’ self-efficacy, which enhances their phishing threat avoidance behaviour. It can therefore be argued that well-designed end-user security education contributes to thwart phishing threats.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
