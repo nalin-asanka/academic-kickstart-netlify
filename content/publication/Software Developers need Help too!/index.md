@@ -1,10 +1,10 @@
 ---
-title: "Security awareness of computer users: A phishing threat avoidance perspective"
+title: "Software Developers need Help too!"
 authors:
 - admin
 - Chamila Wijayarathna
 - Marthie Grobler
-date: "2014-09-01T00:00:00Z"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -64,5 +64,4 @@ projects:
 slides: example
 ---
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
