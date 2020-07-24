@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Gaming for Security"
 authors:
 - admin
 - 
