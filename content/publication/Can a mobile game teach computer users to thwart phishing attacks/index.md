@@ -17,8 +17,8 @@ publishDate: "2020-07-24"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: 
-publication_short: In International Journal for Infonomics (IJI)
+publication: In International Journal for Infonomics
+publication_short: IJI
 
 abstract: Phishing is an online fraudulent technique, which aims to steal sensitive information such as usernames, passwords and online banking details from its victims. To prevent this, anti-phishing education needs to be considered. This research focuses on examining the effectiveness of mobile game based learning compared to traditional online learning to thwart phishing threats. Therefore, a mobile game prototype was developed based on the design introduced by Arachchilage and Cole [3]. The game design aimed to enhance avoidance behaviour through motivation to thwart phishing threats. A website developed by Anti-Phishing Work Group (APWG) for the public Anti-phishing education initiative was used as a traditional web based learning source. A think-aloud experiment along with a pre-and post-test was conducted through a user study. The study findings revealed that the participants who played the mobile game were better able to identify fraudulent web sites compared to the participants who read the website without any training.
 

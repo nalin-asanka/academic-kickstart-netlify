@@ -16,7 +16,7 @@ publishDate: "2020-07-24"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: 
+publication: ITNOW
 publication_short: ITNOW
 
 abstract: Would you give a gun to somebody who has not been trained properly? The risk would be the same as giving a computer connected to the internet to someone who has not been properly trained says Nalin Asanka Gamagedara Arachchilage MBCS at Brunel University and visiting lecturer in computing at the University of Bedfordshire.

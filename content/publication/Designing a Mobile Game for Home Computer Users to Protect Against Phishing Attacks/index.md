@@ -13,11 +13,11 @@ publishDate: "2020-07-24T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: International Conference on Information Society (i-Society 2011)
-publication_short: IEEE
+publication: Intenatioal Journal for e-Learning Security 
+publication_short: IJeLS
 
 abstract: This research aims to design an educational mobile game for home computer users to protect against phishing attacks. Phishing is an online identity theft which aims to steal sensitive information such as username, password and online banking details from victims. To prevent this, phishing education needs to be considered. Mobile games could facilitate to embed learning in a natural environment. The paper introduces a mobile game design based on a story which is simplifying and exaggerating real life. We use a theoretical model derived from Technology Threat Avoidance Theory (TTAT) to address the game design issues and game design principles were used as a set of guidelines for structuring and presenting information. The overall mobile game design was aimed to enhance avoidance motivation and behaviour of home computer users to protect against phishing threats. The prototype game design is presented on Google App Inventor Emulator. We believe by training home computer users to protect against phishing attacks, would be an aid to enable the cyberspace as a secure environment. 
 
@@ -31,7 +31,7 @@ featured: false
 #links:
 #- name: 
 #  url: 
-url_pdf: https://www.researchgate.net/profile/Nalin_Arachchilage/publication/286368756_Design_a_mobile_game_for_home_computer_users_to_prevent_from_phishing_attacks/links/56681c5308ae34c89a048221.pdf
+url_pdf: https://arxiv.org/ftp/arxiv/papers/1602/1602.03929.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
