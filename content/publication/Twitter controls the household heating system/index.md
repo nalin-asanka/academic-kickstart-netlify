@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: International Journal of Sustainable Energy Development
-publication_short: (IJSED)
+publication_short: IJSED
 
 abstract: The home is composed of many different devices, services and related technologies. These have a lack of communication with one another. A challenge within domestic central heating system is being able to exploit the functionality and offer a common means of monitoring and controlling, either locally or remotely. This paper introduces a domestic central heating system design for householders to control it through twitter, either locally or remotely. We believe by enabling householders to monitor and control domestic central heating system could contribute to make a smart home.
 # Summary. An optional shortened abstract.
