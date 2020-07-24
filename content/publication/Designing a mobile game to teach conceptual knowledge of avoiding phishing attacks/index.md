@@ -1,9 +1,9 @@
 ---
-title: "Designing a mobile game to teach conceptual knowledge of avoiding'phishing attacks'"
+title: ""
 authors:
 - admin
-- Steve Love
-- Michael Scott
+- 
+- 
 date: "2012-06-01T00:00:00Z"
 doi: ""
 
@@ -20,8 +20,7 @@ publication_types: ["2"]
 publication: Infonomics Society
 publication_short: In Infonomics Society
 
-abstract: Phishing is a form of online identity theft, which attempts to appropriate confidential and sensitive information such as usernames and passwords from its victims. To facilitate cyberspace as a secure environment, phishing education needs to be made accessible to home computer users and mobile games enable embedded learning in a natural environment. Previously, we have introduced a mobile game design that aimed to enhance avoidance motivation and behavior to protect against phishing threats. This paper focuses on a design that develops the conceptual knowledge that is necessary to combat phishing threats, home computer teaching users about phishing emails and web addresses. The prototype game design is presented on Google App Inventor Emulator.
-
+abstract: 
 # Summary. An optional shortened abstract.
 summary: 
 
@@ -32,7 +31,7 @@ featured: false
 #links:
 #- name: 
 #  url: 
-url_pdf: http://repository.falmouth.ac.uk/1640/1/%5BIJeLS2012%5D%20Designing%20a%20Mobile%20Game%20to%20Teach%20Conceptual%20Knowledge%20(ArachchilageLoveScott_OpenAccessMirror).pdf
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
