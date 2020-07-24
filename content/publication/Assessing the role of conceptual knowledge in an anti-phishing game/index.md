@@ -1,9 +1,11 @@
 ---
-title: ""
+title: "Assessing the role of conceptual knowledge in an anti-phishing game"
 authors:
+- Michael James Scott
+- Gheorghita Ghinea
 - admin
 - 
-date: "2012-01-01T00:00:00Z"
+date: "2014-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,10 +18,10 @@ publishDate: "2020-07-24"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: 
-publication_short: In 
+publication: Advanced Learning Technologies (ICALT), 2014 IEEE 14th International Conference on
+publication_short: IEEE
 
-abstract: 
+abstract: Games can be used to support learning and confidence development in several domains, including the secure use of computers. However, emphasizing different types of knowledge in a game design can lead to different outcomes. This study explores two game designs that aim to enhance students' ability to identify phishing hyperlinks. One design focuses on procedural knowledge; developing students' tacit ability to recognize phishing hyperlinks through systematic practice. The other design focuses on conceptual knowledge; helping students to explicitly reflect upon and identify the features of phishing hyperlinks. The results of a double-blind randomized trial with 66 participants suggests that using a game designed for conceptual knowledge leads to a greater increase in learners' ability to identify phishing hyperlinks. Hence, incorporating conceptual knowledge development into educational games enhances their efficacy within the computer security context.
 # Summary. An optional shortened abstract.
 summary: 
 
@@ -30,7 +32,7 @@ featured: false
 #links:
 #- name: 
 #  url: 
-url_pdf: 
+url_pdf: https://bura.brunel.ac.uk/bitstream/2438/9478/2/Fulltext.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
