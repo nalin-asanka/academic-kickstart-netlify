@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Security awareness of computer users: A game based learning approach"
 authors:
 - admin
 - 
@@ -29,7 +29,7 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
+- name: Link
   url: https://bura.brunel.ac.uk/handle/2438/7620
 url_pdf: https://bura.brunel.ac.uk/bitstream/2438/7620/1/FulltextThesis.pdf
 url_code: ''
