@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: Intenatioal Journal for e-Learning Security (IJeLS)
 publication_short: In IJeLS
 
-abstract: 
+abstract: This research aims to design an educational mobile game for home computer users to protect against phishing attacks. Phishing is an online identity theft which aims to steal sensitive information such as username, password and online banking details from victims. To prevent this, phishing education needs to be considered. Mobile games could facilitate to embed learning in a natural environment. The paper introduces a mobile game design based on a story which is simplifying and exaggerating real life. We use a theoretical model derived from Technology Threat Avoidance Theory (TTAT) to address the game design issues and game design principles were used as a set of guidelines for structuring and presenting information. The overall mobile game design was aimed to enhance avoidance motivation and behaviour of home computer users to protect against phishing threats. The prototype game design is presented on Google App Inventor Emulator. We believe by training home computer users to protect against phishing attacks, would be an aid to enable the cyberspace as a secure environment. 
 
 # Summary. An optional shortened abstract.
 summary: 

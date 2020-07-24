@@ -22,7 +22,6 @@ publication_short: In IEEE
 abstract: Phishing is a form of online identity theft, which attempts to appropriate confidential and sensitive information such as usernames and passwords from its victims. To facilitate cyberspace as a secure environment, phishing education needs to be made accessible to home computer users and mobile games enable embedded learning in a natural environment. Previously, we have introduced a mobile game design that aimed to enhance avoidance motivation and behavior to protect against phishing threats. This paper focuses on a design that develops the conceptual knowledge that is necessary to combat phishing threats, home computer teaching users about phishing emails and web addresses. The prototype game design is presented on Google App Inventor Emulator.
 
 
-
 # Summary. An optional shortened abstract.
 summary: 
 

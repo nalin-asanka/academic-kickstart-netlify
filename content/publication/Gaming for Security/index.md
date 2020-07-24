@@ -2,7 +2,7 @@
 title: "Gaming for Security"
 authors:
 - admin
-- 
+
 date: "2013-01-01T00:00:00Z"
 doi: ""
 
@@ -19,9 +19,9 @@ publication_types: ["2"]
 publication: OUP
 publication_short: In ITNOW
 
-abstract: 
+abstract: Would you give a gun to somebody who has not been trained properly? The risk would be the same as giving a computer connected to the internet to someone who has not been properly trained says Nalin Asanka Gamagedara Arachchilage MBCS at Brunel University and visiting lecturer in computing at the University of Bedfordshire.
 # Summary. An optional shortened abstract.
-summary: Would you give a gun to somebody who has not been trained properly? The risk would be the same as giving a computer connected to the internet to someone who has not been properly trained says Nalin Asanka Gamagedara Arachchilage MBCS at Brunel University and visiting lecturer in computing at the University of Bedfordshire.
+summary: 
 
 tags:
 - Source Themes

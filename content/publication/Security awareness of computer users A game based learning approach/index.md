@@ -2,7 +2,7 @@
 title: "Security awareness of computer users: A game based learning approach"
 authors:
 - admin
-- 
+
 date: "2012-01-01T00:00:00Z"
 doi: ""
 
